@@ -17,7 +17,7 @@
 
 <link
   rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/rabbit@1.0.0/lib/rabbit.css"
+  href="https://cdn.jsdelivr.net/gh/zcxey2911/rabbit@v1.0.0/lib/rabbit.css"
 />
 <div id="sakana-widget"></div>
 <script>
