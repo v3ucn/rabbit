@@ -19,13 +19,24 @@
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/gh/zcxey2911/rabbit@v1.0.0/lib/rabbit.css"
 />
-<div id="sakana-widget"></div>
+
+<div id="rabbit_box">
+</div>
+
 <script>
-   rabbit_init(); // 默认颜色
-  //rabbit_init("pink","20%");  //粉色,高度20%
+
+function init_rabbit(){
+
+rabbit_init("pink");
+
+}
+
 </script>
+
+
 <script
   async
+  onload="init_rabbit()"
   src="https://cdn.jsdelivr.net/gh/zcxey2911/rabbit@v1.0.0/lib/rabbit.js"
 ></script>
 
