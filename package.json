@@ -1,0 +1,25 @@
+{
+  "name": "rabbit-widget",
+  "version": "1.0.0",
+  "description": "云间玉兔，web插件网页特效小兔子，网页小组件，widget，Web plugin",
+  "main": "./lib/rabbit.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zcxey2911/rabbit.git"
+  },
+  "keywords": [
+    "rabbit"
+  ],
+  "author": "刘悦v3u.cn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zcxey2911/rabbit/issues"
+  },
+  "homepage": "https://github.com/zcxey2911/rabbit#readme"
+}
