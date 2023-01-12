@@ -27,7 +27,9 @@
 
 function init_rabbit(){
 
-rabbit_init("pink");
+ rabbit_init("pink","20%");  // 粉色 高度20%
+
+ //rabbit_init(); //默认颜色 默认位置
 
 }
 
