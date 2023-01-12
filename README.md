@@ -12,8 +12,8 @@
 
 ```
 
-<!-- https://cdn.jsdelivr.net/npm/rabbit@1.0.0/lib/rabbit.css -->
-<!-- https://cdn.jsdelivr.net/npm/rabbit@1.0.0/lib/rabbit.js -->
+<!-- https://cdn.jsdelivr.net/gh/zcxey2911/rabbit@v1.0.0/lib/rabbit.css -->
+<!-- https://cdn.jsdelivr.net/gh/zcxey2911/rabbit@v1.0.0/lib/rabbit.js -->
 
 <link
   rel="stylesheet"
@@ -26,7 +26,7 @@
 </script>
 <script
   async
-  src="https://cdn.jsdelivr.net/npm/rabbit@1.0.0/lib/rabbit.js"
+  src="https://cdn.jsdelivr.net/gh/zcxey2911/rabbit@v1.0.0/lib/rabbit.js"
 ></script>
 
 ```

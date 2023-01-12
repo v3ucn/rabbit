@@ -1,6 +1,6 @@
 {
   "name": "rabbit-widget",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "云间玉兔，web插件网页特效小兔子，网页小组件，widget，Web plugin",
   "main": "./lib/rabbit.js",
   "directories": {
